@@ -1,0 +1,7 @@
+{
+  "platform": "chrome",
+  "host": "https://d2ctest.cci.com.tr/",
+  "userName": "",
+  "password": "654321",
+  "host2": "https://qa2.ccinext.com"
+}
